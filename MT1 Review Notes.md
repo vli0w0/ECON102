@@ -35,8 +35,7 @@
 * comparative advantage: higher OC; absolute advantage higher producing rate/productivities
 
 ### Chap 4 GDP
-
-* GDP: Gross Domestic Product, market value of all final goods and services produced in a country in a given time period.
+GDP: Gross Domestic Product, market value of all final goods and services produced in a country in a given time period.
 * final good: an item bought by its final user during a specified time period
   - contracts with an intermediate good, which is produced by a firm and sold to another firm, used as a component of a final good/service.
   - Intermediate good is not counted in GDP - avoid duplicate count
@@ -51,7 +50,6 @@
   - X-M: Net exports (global to local), where X = exports and M = imports
 * GDP = total expenditure = C + I + G + X - M
 * GDP = total income = wages + interest + rent + profit = Y = C + I + G + (X-M), as firms pay out by sales of final goods
-
 * Domestic product != national product.
   - national product: produced anywhere in the world by the residents of a nation
 * Gross: before deducting the depreciation of capital
