@@ -182,3 +182,50 @@ population
 * output gap = Real GDP - potential GDP
   - fluctuates around natural unemployment rate
 
+#### Price Level 
+* price level: the average level of prices, and the value of money. 
+  - A persistently rising price level is called *inflation*;
+  - A persistently falling price level is called *deflation*.
+* purpose:
+  1. measure inflation/deflation rates
+  2. distinguish money values and real values of economic variables
+* Slow, steady, and anticipated inflation/deflation is "not" a problem
+* unexpected burst of inflation or period of deflation brings big problems and costs:
+  - unexpected inflation.deflation period: redistribute income arbitrarily (price up/down but wages not)
+  - similarly, redistribute of wealth between lenders/borrowers (interest doesn't compensate. etc)
+  - lowers real GDP and rises unemployment
+  - high inflation rate: diverts resources from productive activities to inflation forecasting
+  - wast of resources is a cost of inflation
+  - when worst, hyperinflation.
+* hyperinflation: an inflation rate of 50 percent a month or higher that grinds the economy to a halt and causes a society to collapse.
+  - rare, but Zimbabwe in recent years and several European and Latin American countries encounters.
+  
+#### CPI
+CPI: the consumer price index, measures the avg of prices paid by urban consumers for a fixed basket of consumer goods and services
+* CPI defined to 100 in the reference base period. Currently it's 2002. Process is:
+  1. select CPI baskets: divide into different categories/components.
+    - Shelter > Transportation > Food and bevarages > household operations
+  2. conduct monthly price survey 
+  3. Calculate CPI
+* CPI = cost of CPI basket at current period prices / cost of CPI basket at base period prices x 100
+* inflation rate = (CPI this year - CPI last year) / CPI last year x 100
+  - percentage change in the price level
+* Biased CPI
+  - Commodity substitution bias (substitutions away from the goods in CPI basket)
+  - new goods bias (new goods not appear in base year. e.g. CPI has upward bias when iphone replace nokia)
+  - quality change bias (part of price rise counts for quality improvements)
+  - outlet substitution bias (as structure of retailing changes, ppl could switch to cheaper source)
+* CPI overstates inflation by 0.6 perc points a year
+  - distorts private contracts (wage contracts based on CPI index
+  - increase government outlays
+  
+#### Alternative price indexes
+* GDP deflator = (Nominal GDP / Real GDP) x 100
+  - broader measure as it includes all final expenditure. Also too broad as a cost of living
+* CPIC = (Nominal consumption expenditure / Real consumption expenditure) x 100
+  - Chained price index for consumption
+  - broader measure
+* core inflation rates excludes volatile price of the CPI basket
+* Can use GDP deflator to deflate nominal variables to find real values
+  - R-GDP = (Nominal GDP / GDP deflator) x 100
+  - real wage rate = nomial wage rate / GDP deflator x 100 !- real interest rate!
