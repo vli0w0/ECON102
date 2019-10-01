@@ -95,9 +95,23 @@ GDP: Gross Domestic Product, market value of all final goods and services produc
   - \# of years to double income/R-GDPpp = 70/auual percentage growth rate (aka annual perc change of R-GDPpp)
 * Productivity Growth Slowdown:
   - Lucas wedge calculates the cost of slowdown. It's dollar value ofthe accumulated gap between R-GDPpp with 1960s growth rate and R-GDPpp now.
+* Standard of Living across Countries, need to convert to the same currency
+  - Conversion using market exchange rate is not very representative
+  - to measure the goods at same price, we need to use PPP (**purchasing power parity**) to convert currency
+* Limitations of Real GDP:
+  - household production, like preparing meals - underestimate total production and overestimate growth rate
+  - underground economic activity
+  - leisure time
+  - environmental quality
+* Bottom Line
+
 
 #### Business Cycle
-
+Business Cycle: periodic but irregular up-and-down movement of total production and other measures of economic activity   
+* Every cycle has two phases: 1. Expansion 2. Recession
+  - expansion: period during which R-GDP increases, from trough to peak
+  - recession: period during which R-GDP decreases, negativegrowth rate fot at least **two successive quarters**
+* Every cycle has two turning points: 1. Peak and 2. Trough
 
 
 
