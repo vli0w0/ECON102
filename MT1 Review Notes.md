@@ -34,7 +34,9 @@
 * economic growth is not free. Must decrease production of consumption goods and services and use the resources in research/development
 * comparative advantage: higher OC; absolute advantage higher producing rate/productivities
 
-### Chap 4 GDP
+### Chap 4 Measuring GDP
+
+#### GDP
 GDP: Gross Domestic Product, market value of all final goods and services produced in a country in a given time period.
 * final good: an item bought by its final user during a specified time period
   - contracts with an intermediate good, which is produced by a firm and sold to another firm, used as a component of a final good/service.
@@ -42,17 +44,22 @@ GDP: Gross Domestic Product, market value of all final goods and services produc
 * GDP is domestic production only
 * GDP measures the value of production, which is also total expenditure on final goods = total income
 * In factor market, households sell and firms buy service of labor, capital, and land
-  - girms pay wages, interest, rent
+  - Y: firms pay wages, interest, rent
 * In goods market, there are:
   - C: households purchase goods, called consumption expenditure (H(households) to goods market to F(firms))
   - G: government expenditure (Gov to goods market to F)
   - I: investment, money spent on purchasing capital (F to goods market back to F)
   - X-M: Net exports (global to local), where X = exports and M = imports
+
+#### Calculation
 * GDP = total expenditure = C + I + G + X - M
 * GDP = total income = wages + interest + rent + profit = Y = C + I + G + (X-M), as firms pay out by sales of final goods
 * Domestic product != national product.
   - national product: produced anywhere in the world by the residents of a nation
 * Gross: before deducting the depreciation of capital
+* Depreciation: decrease in the value of a firm's capital that results from aging (wear and tear) and obsolescence
+* 
+
 
 
 
