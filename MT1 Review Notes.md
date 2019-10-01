@@ -52,15 +52,51 @@ GDP: Gross Domestic Product, market value of all final goods and services produc
   - X-M: Net exports (global to local), where X = exports and M = imports
 
 #### Calculation
-* GDP = total expenditure = C + I + G + X - M
-* GDP = total income = wages + interest + rent + profit = Y = C + I + G + (X-M), as firms pay out by sales of final goods
+* GDP = total expenditure = C + I + G + X - M (expenditure approach)
+* GDP = total income = wages + interest + rent + profit = Y = C + I + G + (X-M), as firms pay out by sales of final goods (income approach)
 * Domestic product != national product.
   - national product: produced anywhere in the world by the residents of a nation
 * Gross: before deducting the depreciation of capital
 * Depreciation: decrease in the value of a firm's capital that results from aging (wear and tear) and obsolescence
-* 
+* Gross Investment: total amount spent on purchases of new capital & on replacing depreciated capital 
+  - Net investment = gross investment - depreciation
+* Gross profit: a firm's profit before substracting depreciation, is one of the incomes included in the income approach
+* Income Approach: summing incomes that firms pay households.
+  1. W: wages, salaries, and supplementart labor income
+    - payment for labor services, wages + benefits
+  2. OFI: other factor incomes
+    - mixture of interest, rent, and profit. Include some labor income from self-employment.
+* Y = W + OFI = *Net Domestic Income at Factor Cost*
+* Two MUST MADE adjustment to GDP, when using income approach:
+  1. Add indirect taxes, substract subsidies, from net domestic income at factor cost to ndi at market prices. 
+    - for example, for specific tabacco/gasoline tax. It's not directly on receipt like HST, but it is still there and it's not counted as income of firms, but it is part of market price. 
+    - subsidies is counted as income, but it shouldn't be.
+  2. Add Depreciation, from net domestic income to gross domestic income = GDP (income approach)
 
+#### Real GDP
+* - nominal GDP: GDP valued at the prices that prevailed in that same year
+  - real GDP: GDP valued at the prices of a reference base year
+* Use of Real GDP: to compare the standard of living over time and across time
+* Real GDP per person = Real GDP/ Population. 
+  - can compare the standard of living over time.
+  - any influence that rising prices / cost of living is removed
+  - per person inticates value of goods that the average person can enjoy
+* Handy way to compare R-GDP per person overtime: express as a ratio. aka GDPpp in 2016 is ~ times its 1961 level
+* Two features of expanding living standard:
+  - growth of potential GDPpp
+  - fluctuation (irregular rising and falling) of realGDP around potential GDP
+* Potential GDP: maximum quantity of real GDP that can be produced while avoiding shortages of labour, capital, land, and entrepreneurial ability that would bring rising inflation. Or GDP with full-employment
+  - grows at a steady pace because the quantities of the factors of production and their productivities grow at a steady pace
+  - but NOT at a constant pace
+* Annual Percentage Change of R-GDPpp:
+  - = (Real GDP per person in current yr - Real GDP pp in prev yr) / Real GDP pp in prev yr * 100
+  - = average growth rate of R-GDPpp
+* Rule of 70:
+  - # of years to double income/R-GDPpp = 70/auual percentage growth rate (aka annual perc change of R-GDPpp)
+* Productivity Growth Slowdown:
+  - Lucas wedge calculates the cost of slowdown. It's dollar value ofthe accumulated gap between R-GDPpp with 1960s growth rate and R-GDPpp now.
 
+#### Business Cycle
 
 
 
