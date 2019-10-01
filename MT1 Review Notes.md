@@ -36,7 +36,7 @@
 
 ### Chap 4 GDP
 
-GDP: Gross Domestic Product, market value of all final goods and services produced in a country in a given time period.
+* GDP: Gross Domestic Product, market value of all final goods and services produced in a country in a given time period.
 * final good: an item bought by its final user during a specified time period
   - contracts with an intermediate good, which is produced by a firm and sold to another firm, used as a component of a final good/service.
   - Intermediate good is not counted in GDP - avoid duplicate count
