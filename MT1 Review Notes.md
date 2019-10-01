@@ -102,9 +102,8 @@ GDP: Gross Domestic Product, market value of all final goods and services produc
   - household production, like preparing meals - underestimate total production and overestimate growth rate
   - underground economic activity
   - leisure time
-  - environmental quality
-* Bottom Line
-
+  - environmental quality, resources used to protect the environment are valued as part of GDP.
+* Though there are limitations, R-GDPpp remains the most wwidely used indicator of economic well-being.
 
 #### Business Cycle
 Business Cycle: periodic but irregular up-and-down movement of total production and other measures of economic activity   
@@ -113,5 +112,73 @@ Business Cycle: periodic but irregular up-and-down movement of total production 
   - recession: period during which R-GDP decreases, negativegrowth rate fot at least **two successive quarters**
 * Every cycle has two turning points: 1. Peak and 2. Trough
 
+### Chap 5 Monitoring Jobs and Inflatiohn
+* Unemployment results in 1. lost incomes and production 2. lost human capital
+* To be counted as unemployed, ppl must be available for work and satisfying one of:
+  - without work but has made specific efforts to ind a job in past 4 weeks
+  - on temporary layoff, expecting recall
+  - has a new job to start within 4 weeks
+* Definition of Unemployment is imperfect, because it excludes:
+  1. Discouraged Searcher: want and is available for a job, but is not actively searching for jobs
+  2. Long-term future starts: job starts in 4+ weeks is not part of labor force
+  3. Involuntary part-time workers.
 
+```
+population
+└───working-age population
+│   │   number of ppl aged 15 yrs +
+│   │   and not in jail, hospital, etc.
+│   │
+│   └───ppl in Labor Force
+│   │   │   Labor Force:
+│   │   │   sum of employed and unemployed workers
+│   │   │ 
+│   │   └───employed
+│   │   │   │
+│   │   │   └─── full-time employed
+│   │   │   └─── part-time employed
+│   │   │        └─── voluntary part time 
+│   │   │        └─── involuntary part time 
+│   │   │
+│   │   └───Unemployed
+│   │       │
+│   │       └───Frictional unemployment
+│   │       │     Unemployment arises from normal labor market turnover
+│   │       │
+│   │       └───Structural unemployment
+│   │       │     Unemployment created by changes in tech and international
+│   │       │     competition that change skills needed to perform jobs.
+│   │       │     Last longer than frictional unemployment
+│   │       │
+│   │       └───Cyclincal unemployment
+│   │             higher-than-normal unemployment at a business cycle trough
+│   │             & lower-than-normal unemployment at peak
+│   │   
+│   └───ppl NOT in Labor Force
+│          
+└───Others
+    │   ppl too young to work (<15 yrs)
+    │   OR those who live in institutions
+```
+* Labor Force = \# of ppl employed + \# of ppl unemployed
+* Unemployment Rate = \# of ppl unemployed / Labor Force * 100
+  - increased in recession
+  - purpose of calculating it: measure the underutilization of labor resources
+* Involuntary part-time rate = \# of involuntary part-time workers / Labor Force * 100
+* Labor Force Participation Rate = Labor force / working age population * 100
+* Employment Rate = \# of ppl employed / working age population * 100
+  - note that the divisor is **different** from unemployment rate
+
+#### Natural Unemployment
+* Natural unemployment = frictional unemployment + structural employment when there's no cyclical unemployment
+* Full employment: situation at which unemployment rate = natural unemployment rate
+  - that is, there is no cyclical unemployment
+* Key influencing factors:
+  - age distribution of population
+  - scale of structural change
+  - real wwage rate
+  - unemployment benefits
+* potential GDP = Real GDP produced at full employment.
+* output gap = Real GDP - potential GDP
+  - fluctuates around natural unemployment rate
 
