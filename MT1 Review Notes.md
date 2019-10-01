@@ -92,7 +92,7 @@ GDP: Gross Domestic Product, market value of all final goods and services produc
   - = (Real GDP per person in current yr - Real GDP pp in prev yr) / Real GDP pp in prev yr * 100
   - = average growth rate of R-GDPpp
 * Rule of 70:
-  - # of years to double income/R-GDPpp = 70/auual percentage growth rate (aka annual perc change of R-GDPpp)
+  - \# of years to double income/R-GDPpp = 70/auual percentage growth rate (aka annual perc change of R-GDPpp)
 * Productivity Growth Slowdown:
   - Lucas wedge calculates the cost of slowdown. It's dollar value ofthe accumulated gap between R-GDPpp with 1960s growth rate and R-GDPpp now.
 
