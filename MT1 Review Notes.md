@@ -11,6 +11,7 @@
   - labor: work time and effort, incentive is wages
   - capital: tools, machines, building, etc. incentive is interest
   - entrepreneurship: human resource to put above 3 together, earns profit
+* what question: goods/services; how:one of land/labor/capital/entrepreneur
 * choice = tradeoff; people making rational choice comparing costs and benefits
 * benefit: the gain/pleasure it brings, determined by preference
 * Preference: what a person likes and dislikes and the intensity
