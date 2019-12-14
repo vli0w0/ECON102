@@ -5,10 +5,11 @@
 * Money: what we use to pay for goods and services and factors of production and to make financial transactions. The study of money looks at how households and firms use it, how much of it they hold, how banks create and manage it, and how its quantity influences the economy.
 
 * Physical capital: the tools, instruments, machines, buildings, and other items that have been produced in the past and that are used today to produce goods and services. Example: Inventories of raw materials, semifinished goods, and components are part of physical capital. *When economists use the term capital, they mean physical capital.* 
-* Financial capital: the funds that firms use to buy physical capital
-* Investment increases the quantity of capital and depreciation decreases it 
-* **Net Inverstment = Gross Investment - Depreciation**
-* **Total Capital = Initial Investment - Depreciation + Gross Investment**
+* Financial capital: the funds that firms use to buy physical capital.
+  
+Investment increases the quantity of capital and depreciation decreases it      
+**Net Inverstment = Gross Investment - Depreciation**     
+**Total Capital = Initial Investment - Depreciation + Gross Investment**
 
 #### Wealth and Saving
 Wealth is the value of all the things that people own. Saving is the amount of income that is not paid in taxes or spent on consumption goods and services. It is the source of the funds that are used to finance investment.
@@ -44,6 +45,7 @@ Funds come from three sources:
 2. Government budget surplus, (T – G)
     * T: Net taxes are taxes paid to government minus the cash transfers received from government.
     * G: Government expenditure
-3. Borrowing from the rest of the world, (M – X) = (import - export)
+3. Borrowing from the rest of the world, (M – X) = (import - export)      
+
 **Natioanl Saving = Private saving S + and government saving(T − G)**
 
