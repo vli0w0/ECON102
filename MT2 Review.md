@@ -225,7 +225,50 @@ In the long run, the price level adjusts to make the quantity of real money dema
 * **Inflation rate = Money growth rate + Growth rate of velocity - Real GDP growth rate**
 * In the long run, speead of velocity does not change, so **Inflation rate = Money growth rate - Real GDP growth rate**
 
-
-
-
 ## Chap 9 Foreign Exchange Market
+Foreign exchange market is the market in which the currency of one country is exchanged for the currency of another.      
+Nominal Exchange Rate is the price at which one currency exchanges for another currency in the foreign exchange market.
+* The Demand for One Money Is the Supply of Another Money
+* Demand on the quantity of Canadian dollars  depends on:
+    1. The exchange rate (y-axis): higher the exchange rate, the smaller is the quantity of Canadian dollars demanded
+        - export effects: higher the exchange rate, less is the volume of Canadian exports.
+    2. World demand for Canadian exports (rise->shifts right)
+    3. Interest rates in Canada and other countries (differential rises->shifts right)
+        - Canadian interest rate differential = Canadian interest rate - foreign interest rate
+    4. The expected future exchange rate (rises->shifts right)
+        - expected Profit Effect: 和现在的对比，expected越高，预计赚的越多，greater amount of demand
+* Supply on CAD:
+    1. The exchange rate (y-axis)
+        - import effects: higher the rate, more imports we want to buy, so more supplied.
+    2. Canadian demand for imports (rise->shifts right)
+    3. Interest rates in Canada and other countries (rises->shifts left)
+    4. The expected future exchange rate (rises->shifts left)
+
+### Arbitrage
+Arbitrage: 同時利用兩地利息率的差價和貨幣匯率的差價，流動資本以賺取利潤.
+  * the practice of seeking to profit by buying in one market and selling for a higher price in another market. 
+To avoid arbitrage, we want to have:
+* The Law of One Price: if an item is traded in more than one place, the price will be the same in all locations.
+* Interest Rate Parity: equal interest rates of return across currencie. Hence, for risk-free transactions, there is no gain from choosing one currency over another.
+* Purchasing power parity **PPP**: Two products in different currencies actually have the same price. That is, after conversion, having the same purchasing power.
+
+### Speculation
+Speculation is trading on the expectation of making a profit. Unlike arbitrage which is certain to make profit, speculation does not have that certainty. It could be short term or long term. 
+* Exchange rate forecasts are made over horizons. It has a lot of uncertainty, has many divergent forecasts, and the forecasts influence the outcome. The dependence of today’s exchange rate on forecasts of tomorrow’s exchange rate can give rise to exchange rate volatility in the short run.
+* Exchange Rate Volatility - the rate constantly changing.
+* Exchange Rate changes depends on market foundamentals
+
+### Market Foundamentals
+The Real Exchange Rate = relative price of Canadian-produced goods and services to foreign-produced goods and services.
+
+In the short run, **RER = Nominal Exchange Rate(E) * Domestic Price Level(P) / Foreign Price Level(P_foreign)**
+
+In the long run, **E = RER x P / P_foreign**
+
+### Exchange Rate policy
+1. flexible exchange rate: permits the exchange rate to be determined by demand and supply in the foreign exchange market with no direct intervention by the central bank. 
+2. fixed exchange rate: pegs the exchange rate at a value decided by the government or central bank and is achieved by direct and active intervention in the foreign exchange market to block unregulated forces of demand and supply.
+3. Crawling peg: works like a fixed exchange rate except that the target value changes. It follows a path determined by a decision of the
+government or the central bank.
+    - purpose: avoid wild swings in the exchange rate that might happen if expectations became volatile, and 
+    - to avoid the problem of running out of reserves, which can happen with a fixed exchange rate.
