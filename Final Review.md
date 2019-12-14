@@ -52,7 +52,34 @@ The purpose of the aggregate supply–aggregate demand model (AS-AD model) is to
         
 ###  Macroeconomic Trends and Fluctuations
 
+* Short-run macroeconomic equilibrium: intersection of AD and SAS
+    - when actual above AD line, firms cut productions and prices
+    - when below, firms increase productions and prices.
+* Long-run macroeconomic equilibrium: when real GDP equals potential GDP. Money wages would adjust.
+    - if not fully employed, SAS increases and shifts rightward
+    - if over employed, SAS shifts leftward.
+* When the quantity of money grows faster than potential GDP, AD increases more than SAS. 
+    - Inflation and economic growth 
+* Business Cycle happens because the money wage does not change rapidly enough to keep real GDP at potential GDP.
+    - Output gap = Inflation Gap = real GDP - potential GDP (when above full-employment equilibrium)
+    - Recessionary gap = potential GDP - real GDP (when under employement, output gap negative.)
 
-## Chap 11
+### Macroeconomic Schools of Thought
+1. Classical: the economy is self-regulating and always at full employment.
+    - can be understood in terms of beliefs about aggregate demand and aggregate supply.
+    - technological change is the most significant influence on both aggregate demand and aggregate supply
+    - The money wage rate change pretty fast.
+    - emphasizes the potential for taxes to stunt incentives and create inefficiency
+    - new classical: business cycle fluctuations are the efficient responses of a well-functioning market economy that is bombarded by shocks that arise from the uneven pace of technological change.
+2. Keynesian: active help from fiscal policy and monetary policy is required to operate at full employment
+    - expectations are the most significant influence on aggregate demand
+    - the money wage rate that lies behind the short-run aggregate supply curve is extremely sticky in the downward direction
+    - new Keynesian: not only is the money wage rate sticky, but also are the prices of goods.
+3. Monetarist: economy is self-regulating and that it will normally operate at full employment, provided that monetary policy is not erratic and that the pace of money growth is kept steady.
+    - the quantity of money is the most significant influence on aggregate demand.
+    - If the Bank of Canada keeps money growing at a steady pace, aggregate demand fluctuations will be minimized and the economy will operate close to full employment. All recessions result from inappropriate monetary policy.
+    - The money wage rate is sticky.
+
+## Chap 11 Expenditure Multipliers
 
 ## Chap 12
