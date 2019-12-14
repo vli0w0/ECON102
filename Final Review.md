@@ -93,6 +93,9 @@ Aggregate expenditure has four components:
 3. Government expenditure on goods and services
 4. Net exports (exports minus imports)
 
+* Consumption expenditure minus imports, which varies with real GDP, is called induced expenditure.
+* The sum of investment, government expenditure, and exports, which does not vary with real GDP, is called autonomous expenditure
+
 Disposable income (YD) = aggregate income (Y) - net taxes (taxes plus transfer payments T).
 
 Also, YD = expenditure on goods or services (C) + Savings (S)
