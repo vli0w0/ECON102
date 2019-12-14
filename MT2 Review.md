@@ -38,6 +38,9 @@ For example: banks, trust and loans, credit unions, pension funds, and insurance
 **Interest Rate = Rate of Return = (Bond Payment / asset price) * 100**
 * When asset price increases, interest rate actually decreases
 
+In loanable funds market, **nominal interest rate** is the number of dollars that a borrower pays and a lender receives in interest in a year expressed as a percentage of the number of dollars borrowed and lent.
+* **real interest rate = ( nominal interest rate ─ inflation rate )**
+
 #### The Loanable Funds Market   
 The aggregate of all the individual financial markets.    
 Funds come from three sources:
@@ -48,4 +51,33 @@ Funds come from three sources:
 3. Borrowing from the rest of the world, (M – X) = (import - export)      
 
 **Natioanl Saving = Private saving S + and government saving(T − G)**
+
+Recall **Income(Y) = consumption expenditure(C) + saving(S) + net taxes(T)** and **GDP = wages + interest + rent + profit = Y = C + I + G + (X-M)**     
+
+**Investment I = Household Saving S + Government Budget Surplus(T – G) + Borrowing from rest of the world(M - X)**
+The market for loanable funds determines the real interest rate, the quantity of funds loaned, saving, and investment.
+
+* Demands for Loanable Funds
+    1. real interest rate UP, quantity of loanable funds demanded goes down, the point move towards up and left along the curve
+    2. the greater the expected profit from new capital, the greater is the amount of investment and the greater the demand for loanable funds.  The demand for loanable funds changes and the demand curve shifts.
+
+* Supply for loanable funds
+The quantity of loanable funds supplied is the total funds available from private saving, the government budget surplus, and international borrowing during a given period. Our focus here is on saving.
+    1. The real interest rate UP, quantity of loanable funds supplied UP. Point move up and right along the curve.
+    2. Disposable income = income earned - net taxes
+        * The greater a household’s disposable income, the greater is its saving.
+        * Demand curve shifts to the right
+    3. Expected future income UP, the smaller is its saving.
+        * Demand curve shifts to the left
+    4. Wealth UP, the smaller is its saving. (especially if because of a capital gain)
+        * Demand curve shifts to the left
+    5. Default risk: the risk that a loan will not be repaid
+        * The greater that risk, the higher is the interest rate needed to induce a person to lend and the smaller is the supply of loanable funds.
+        * risk UP, demand curve shifts to the left.
+If one of the influences on saving plans changes and increases saving, the supply of loanable funds increases. An increase in disposable income, a decrease in expected future income, a decrease in wealth, or a fall in default risk increases saving and increases the supply of loanable funds.
+
+
+Wealth
+
+Default risk
 
