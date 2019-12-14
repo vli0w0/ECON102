@@ -88,8 +88,8 @@ Money: any commodity or token that is generally acceptable as a means of payment
 
 Money Serves as:
   - Medium of exchange
-      - otherwise we needs barter. Barter requires a double coincidence of wants, which rarely occurs.
-      - money isn’t the only medium of exchange. Credit card is not money.
+      - otherwise we needs barter. Barter requires a double coincidence of wants, which rarely occurs
+      - money isn’t the only medium of exchange. Credit card is not money
   - Unit of account: agreed-upon measure for stating the prices of goods and services.
       - it also simplifies Price Comparisons.
   - Store of value: it can be held and exchanged later for goods and services. 
@@ -97,7 +97,13 @@ Money Serves as:
       - A house, a car, and a work of art are other examples of store of values.
       - Inflation lowers the value of money and the values of other commodities and tokens.
  
-* Money in Canada Today
+### Money in Canada Today
+In Canada today, money consists of
+1. currency: the notes 纸钞 and coins 硬币 held by individuals and businesses.
+2. deposits at banks and other depository institutions: the deposits of individuals and businesses at banks and other depository institutions.
+
+### Official Measures of Money:
+
 
   
 
