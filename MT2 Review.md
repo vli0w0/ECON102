@@ -146,14 +146,14 @@ The goal of any bank is to **maximize the wealth of its owners**. So the interes
 The Bank of Canada: a public authority that supervises other banks and financial institutions, financial markets, and the payments system, and conducts monetary policy.       
 * The Bank of Canada has a restricted list of customers including other banks, the government, and the central banks of other countries.
 * Its roles/objectives:
-      - Banker to banks and government
-      - Lender of last resort
-      - Sole issuer of bank notes
+    - Banker to banks and government
+    - Lender of last resort
+    - Sole issuer of bank notes
 * Structure (Board of Directors)
-      - The Governor: Stephen S. Poloz
-      - The Senior Deputy Governor: Carolyn A. Wilkins
-      - The Deputy Minister of Finance: Paul Rochon
-      - Twelve outside Directors
+    - The Governor: Stephen S. Poloz
+    - The Senior Deputy Governor: Carolyn A. Wilkins
+    - The Deputy Minister of Finance: Paul Rochon
+    - Twelve outside Directors
 * Main assets (what you own): Government securities + Loans to depository institutions
 * Liabilities (what you owe): Bank of Canada notes + Depository institution deposits
 
