@@ -1,6 +1,6 @@
-### Chap 7 Finance, Saving, and Investment
+## Chap 7 Finance, Saving, and Investment
 
-#### Distinguish between Finance and Money, Physical and Financial Capital
+### Distinguish between Finance and Money, Physical and Financial Capital
 * Finance: the activity of providing the funds that finance expenditures on capital. It looks at how households and firms obtain and use financial resources and how they cope with the risks that arise in this activity.
 * Money: what we use to pay for goods and services and factors of production and to make financial transactions. The study of money looks at how households and firms use it, how much of it they hold, how banks create and manage it, and how its quantity influences the economy.
 
@@ -11,7 +11,7 @@ Investment increases the quantity of capital and depreciation decreases it
 **Net Inverstment = Gross Investment - Depreciation**     
 **Total Capital = Initial Investment - Depreciation + Gross Investment**
 
-#### Wealth and Saving
+### Wealth and Saving
 Wealth is the value of all the things that people own. Saving is the amount of income that is not paid in taxes or spent on consumption goods and services. It is the source of the funds that are used to finance investment.
 These funds are supplied and demanded in three types of financial markets.
 1. Loan markets
@@ -23,7 +23,7 @@ These funds are supplied and demanded in three types of financial markets.
 3. Stock markets: a financial market in which shares of stocks of corporations are traded. 
     - Stock is a certificate of ownership and claim to the firm’s profits.
 
-#### Financial institution
+### Financial institution
 A firm that operates on both sides of the markets for financial capital. It is a borrower in one market and a lender in another.    
 For example: banks, trust and loans, credit unions, pension funds, and insurance companies.    
 * All financial institutions face risk, which poses two problems: solvency and liquidity problems.     
@@ -32,7 +32,7 @@ For example: banks, trust and loans, credit unions, pension funds, and insurance
 * Illiquid: the company has made long-term loans with borrowed funds and is faced with a sudden demand to repay more of what it has borrowed than its available cash.
     - normally, illiquit corps can borrow from other firms, depending on loan markets
     
-#### Interest Rates and Asset Prices
+### Interest Rates and Asset Prices
 * Financial asset: Stocks, bonds, short-term securities and loans
 * The price of an asset and the interest rate on that asset are determined simultaneously—one implies the other. 
 **Interest Rate = Rate of Return = (Bond Payment / asset price) * 100**
@@ -41,7 +41,7 @@ For example: banks, trust and loans, credit unions, pension funds, and insurance
 In loanable funds market, **nominal interest rate** is the number of dollars that a borrower pays and a lender receives in interest in a year expressed as a percentage of the number of dollars borrowed and lent.
 * **real interest rate = ( nominal interest rate ─ inflation rate )**
 
-#### The Loanable Funds Market   
+### The Loanable Funds Market   
 The aggregate of all the individual financial markets.    
 Funds come from three sources:
 1. Household saving, S
@@ -76,8 +76,39 @@ The quantity of loanable funds supplied is the total funds available from privat
         * risk UP, demand curve shifts to the left.
 If one of the influences on saving plans changes and increases saving, the supply of loanable funds increases. An increase in disposable income, a decrease in expected future income, a decrease in wealth, or a fall in default risk increases saving and increases the supply of loanable funds.
 
+### Government in the Loanable Funds Market
+Government enters the loanable funds market when it has a budget surplus or budget deficit.
+* A government budget surplus increases the supply of loanable funds.
+* A government budget deficit increases the demand for loanable funds
+As curves shift, the real interest rate rises or falls.
 
-Wealth
+## Chap 8 Money, Price Level, and Inflation
 
-Default risk
+Money: any commodity or token that is generally acceptable as a means of payment. A means of payment is a method of settling a debt. When a payment has been made, there is no remaining obligation between the parties to a transaction.
 
+Money Serves as:
+  - Medium of exchange
+      - otherwise we needs barter. Barter requires a double coincidence of wants, which rarely occurs.
+      - money isn’t the only medium of exchange. Credit card is not money.
+  - Unit of account: agreed-upon measure for stating the prices of goods and services.
+      - it also simplifies Price Comparisons.
+  - Store of value: it can be held and exchanged later for goods and services. 
+      - otherwise it could not serve as a means of payment.
+      - A house, a car, and a work of art are other examples of store of values.
+      - Inflation lowers the value of money and the values of other commodities and tokens.
+ 
+* Money in Canada Today
+
+  
+
+
+
+
+
+
+
+
+
+
+
+## Chap 9 Foreign Exchange Market
