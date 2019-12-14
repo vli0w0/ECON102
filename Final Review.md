@@ -81,5 +81,80 @@ The purpose of the aggregate supply–aggregate demand model (AS-AD model) is to
     - The money wage rate is sticky.
 
 ## Chap 11 Expenditure Multipliers
+The Keynesian model describes the economy in the very short run when prices are fixed.
+Because each firm’s price is fixed, for the economy as a whole:
+1. The price level is fixed.
+2. Aggregate demand determines real GDP.
 
-## Chap 12
+### Aggregate expenditure
+Aggregate expenditure has four components:
+1. Consumption expenditure
+2. Investment
+3. Government expenditure on goods and services
+4. Net exports (exports minus imports)
+
+Disposable income (YD) = aggregate income (Y) - net taxes (taxes plus transfer payments T).
+
+Also, YD = expenditure on goods or services (C) + Savings (S)
+
+### Consumption function
+
+C = autonomous consumption + marginal propensity to consume(MPC) * YD
+
+C = Ca + MPC * (Y - T)
+
+MPC = delta C / delta YD (the fraction of a change in YD that is
+spent on consumption.)
+
+Saving function: 
+S = − Ca + (1 − MPC )xYD
+
+marginal propensity to save (MPS) =  delta S / delta YD
+
+MPC + MPS = 1
+
+### Import function
+M = MPI ∙ Y
+
+Marginal propensity to import (MPI) = delta M/ delta Y
+
+
+The aggregate
+expenditure (AE)
+curve summarizes
+the relationship
+between aggregate
+planned expenditure
+and real GDP.
+
+### Equilibrium expenditure
+Equilibrium expenditure occurs when aggregate planned expenditure (AE) equals real GDP (Y).
+
+The multiplier equals the change in equilibrium expenditure and real GDP (Y) that results from a change in autonomous expenditure (A) divided by the change in autonomous expenditure.
+
+## Chap 12 Business Cycles, Inflation, and Deflation 
+In the long run, inflation occurs if the quantity of money grows faster than potential GDP.
+In the short run, many factors can start an inflation, and real GDP and the price level interact.
+
+Inflation rate = Money growth rate + Growth rate of velocity – Real GDP growth rate
+
+A Phillips curve is a curve that shows the relationship between the inflation rate and the
+unemployment rate.
+
+The long-run Phillips curve (LRPC) is
+vertical at the natural unemployment rate.
+
+The SRPC intersects the LRPC at the
+expected inflation rate 
+
+An increase in the expected inflation rate
+shifts the short-run Phillips curve rightwards, but it
+does not shift the long-run Phillips curve.
+
+An increase in the natural unemployment
+rate shifts both the long-run and shortrun Phillips curves rightward.
+
+### Mainstream Business Cycle
+Because potential GDP grows at a steady pace while aggregate demand grows at a
+fluctuating rate, real GDP fluctuates around potential GDP.
+
